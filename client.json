@@ -1,7 +1,7 @@
 {
     "Log": ["color"],
     "UserAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.101 Safari/537.36",
-    "Cipher":{"Method":"auto", "Key":"809240d3a021449f6e67aa73221d42df942a308a", "User": "gsnova"},
+    "Cipher":{"Method":"auto", "Key":"809540d3a051449f6e67aa73551d42df945a308a", "User": "gnv"},
     "Mux":{
         "MaxStreamWindow": "512K",
         "StreamMinRefresh":"32K"
