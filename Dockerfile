@@ -1,6 +1,6 @@
 FROM alpine:latest
 
-RUN mkdir -m 777 /gsnova
+RUN mkdir -m 777 /gnv
  
 ADD entrypoint.sh /entrypoint.sh
 RUN chmod +x /entrypoint.sh 
