@@ -1,15 +1,15 @@
 {
-  "name": "gsnova",
-  "description": "deploy gsnova to Heroku.",
-  "keywords": ["gsnova"],
+  "name": "gnv",
+  "description": "deploy gnv to Heroku.",
+  "keywords": ["gnv"],
   "env": {
     "VER": {
-       "description": "设置 gsnova 版本",
+       "description": "设置 gnv 版本",
        "value": "0.33.0"
     }, 
     "KEY": {
        "description": "设置 加密 key",
-       "value": "809240d3a021449f6e67aa73221d42df942a308a"
+       "value": "809540d3a051449f6e67aa73551d42df945a308a"
     },
     "Window": {
        "description": "设置 MaxStreamWindow",
@@ -20,7 +20,7 @@
        "value": "32k"
     }
   },
-  "website": "https://github.com/wangyi2005/gsnova-heroku",
-  "repository": "https://github.com/wangyi2005/gsnova-heroku",
+  "website": "https://github.com/fifi16/gsnova-heroku",
+  "repository": "https://github.com/fifi16/gsnova-heroku",
   "stack": "container"
  }
