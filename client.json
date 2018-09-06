@@ -1,15 +1,15 @@
 {
     "Log": ["color"],
-    "UserAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.101 Safari/537.36",
-    "Cipher":{"Method":"auto", "Key":"809540d3a051449f6e67aa73551d42df945a308a", "User": "gnv"},
+    "UserAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36",
+    "Cipher":{"Method":"aes256-gcm", "Key":"809540d3a051449f6e67aa73551d42df945a308a", "User": "gnv"},
     "Mux":{
         "MaxStreamWindow": "512K",
         "StreamMinRefresh":"32K"
     },
     "LocalDNS":{
     	"Listen": "127.0.0.1:5300",
-    	"FastDNS":["223.5.5.5","180.76.76.76"],
-    	"TrustedDNS": ["114.114.114.114", "114.114.115.115"]
+    	"FastDNS":["8.8.8.8","8.8.4.4"],
+    	"TrustedDNS": ["208.67.220.220", "208.67.222.222"]
     },
     "Admin":{
          "Listen": ":7788",
