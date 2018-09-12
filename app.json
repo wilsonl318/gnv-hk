@@ -20,7 +20,7 @@
        "value": "32k"
     }
   },
-  "website": "https://github.com/fifi16/gsnova-heroku",
-  "repository": "https://github.com/fifi16/gsnova-heroku",
+  "website": "https://github.com/fifi16/gnv-heroku",
+  "repository": "https://github.com/fifi16/gnv-heroku",
   "stack": "container"
  }
