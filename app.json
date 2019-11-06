@@ -13,7 +13,7 @@
     },
     "Window": {
        "description": "设置 MaxStreamWindow",
-       "value": "521k"
+       "value": "512k"
     },
     "Window_Refresh": {
        "description": "设置 StreamMinRefresh",
