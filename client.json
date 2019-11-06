@@ -3,8 +3,8 @@
     "UserAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36",
     "Cipher":{"Method":"aes256-gcm", "Key":"809540d3a051449f6e67aa73551d42df945a308a", "User": "gnv"},
     "Mux":{
-        "MaxStreamWindow": "512K",
-        "StreamMinRefresh":"32K"
+        "MaxStreamWindow": "1024K",
+        "StreamMinRefresh":"64K"
     },
     "LocalDNS":{
     	"Listen": "127.0.0.1:5300",
