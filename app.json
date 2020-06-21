@@ -13,11 +13,11 @@
     },
     "Window": {
        "description": "设置 MaxStreamWindow",
-       "value": "512k"
+       "value": "1024k"
     },
     "Window_Refresh": {
        "description": "设置 StreamMinRefresh",
-       "value": "32k"
+       "value": "64k"
     }
   },
   "website": "https://github.com/fifi16/gnv-heroku",
